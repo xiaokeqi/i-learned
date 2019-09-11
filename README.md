@@ -5,7 +5,26 @@
 ## Node
 
 #### Node.js v12.9.1
-##### Assert
+
+##### 7天学会nodejs http://nqdeng.github.io/7-days-nodejs/#1.1
+
+[day 1](https://github.com/xiaokeqi/i-learned/issues/37)
+
+[day 2](https://github.com/xiaokeqi/i-learned/issues/38)
+
+[day 3](https://github.com/xiaokeqi/i-learned/issues/39)
+
+[day 4](https://github.com/xiaokeqi/i-learned/issues/40)
+
+[day 5](https://github.com/xiaokeqi/i-learned/issues/41)
+
+[day 6](https://github.com/xiaokeqi/i-learned/issues/42)
+
+[day 7](https://github.com/xiaokeqi/i-learned/issues/43)
+
+
+
+
 
 未完待续
 
@@ -31,7 +50,7 @@
 
 
 
-##计算机基础
+## 计算机基础
 
 #### 编译原理
 
@@ -76,14 +95,3 @@
 #### 使用库
 
 #### 测试
-
-
-
-
-
-
-
-
-
-
-
