@@ -8,11 +8,11 @@
 
 ##### 7天学会nodejs http://nqdeng.github.io/7-days-nodejs/#1.1
 
-[day 1](https://github.com/xiaokeqi/i-learned/issues/37)
+[day 1node基础](https://github.com/xiaokeqi/i-learned/issues/37)
 
-[day 2](https://github.com/xiaokeqi/i-learned/issues/38)
+[day 2代码的组织和部署](https://github.com/xiaokeqi/i-learned/issues/38)
 
-[day 3](https://github.com/xiaokeqi/i-learned/issues/39)
+[day 3文件操作](https://github.com/xiaokeqi/i-learned/issues/39)
 
 [day 4](https://github.com/xiaokeqi/i-learned/issues/40)
 
