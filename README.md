@@ -4,51 +4,19 @@
 
 ## Node
 
-#### Node.js v12.9.1
-
-##### 7天学会nodejs http://nqdeng.github.io/7-days-nodejs/#1.1
-
-[day 1node基础](https://github.com/xiaokeqi/i-learned/issues/37)
-
-[day 2代码的组织和部署](https://github.com/xiaokeqi/i-learned/issues/38)
-
-[day 3文件操作](https://github.com/xiaokeqi/i-learned/issues/39)
-
-[day 4](https://github.com/xiaokeqi/i-learned/issues/40)
-
-[day 5](https://github.com/xiaokeqi/i-learned/issues/41)
-
-[day 6](https://github.com/xiaokeqi/i-learned/issues/42)
-
-[day 7](https://github.com/xiaokeqi/i-learned/issues/43)
-
-
-
-
+#### Node.js
 
 未完待续
-
-
 
 ## 数据结构
 
 未完待续
 
-
-
-
-
 ## JS高级进阶
 
 未完待续
 
-
-
 ## CSS高级进阶
-
-
-
-
 
 ## 计算机基础
 
@@ -58,13 +26,7 @@
 
 #### 设计模式
 
-
-
 ## 浏览器原理
-
-
-
-
 
 ## 项目部署
 
@@ -72,13 +34,7 @@
 
 #### pm2
 
-
-
 ## 前端安全
-
-
-
-
 
 ## 框架和类库
 
